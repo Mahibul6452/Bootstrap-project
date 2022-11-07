@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+.navbar-collapse {
+    flex-direction: row-reverse;
+}
+
+
+
+.carousel-indicators {
+    opacity: 1;
+
+}
+
+.carousel-indicators .active {
+    background-color: yellow !important;
+    height: 12px !important;
+    width: 35px !important;
+    border-radius: 10px !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: blue !important;
+    height: 10px !important;
+    width: 30px !important;
+    border-radius: 10px !important;
+}
+
+.laptop {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+
+
+.footer {
+    margin-top: 30px;
+}
+
+.test {
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+
+
+}
